@@ -1,11 +1,15 @@
-##1.  Draw a 4 x 4 grid to the screen (see 2048 Lab).
-##2.  Let row = 0
-##3.  For each line in the file:
-##4.      Split the line into nums
-##5.      For i in range(len(nums)):
-##6.          Move to (i,row)
-##7.          Write nums[i] to the graphics window
-##8.      row = row + 1
+# Write a program that reads in sequences of numbers from a file and displays them in a grid on a graphics screen. For this first program, you can assume that there are 4 lines each with no more than 4 entries per line. The entries on each line are separated by commas.
+
+# Psuedocode:
+
+#1.  Draw a 4 x 4 grid to the screen (see 2048 Lab).
+#2.  Let row = 0
+#3.  For each line in the file:
+#4.      Split the line into nums
+#5.      For i in range(len(nums)):
+#6.          Move to (i,row)
+#7.          Write nums[i] to the graphics window
+#8.      row = row + 1
 
 
 import turtle 

@@ -1,3 +1,13 @@
+# Write a function called getFare that takes as two parameters: the zone and the ticket type (in that order), and returns the Copenhagen Transit fare.
+
+# If the zone is 2 or smaller and the ticket type is "adult", the fare is 23.
+# If the zone is 2 or smaller and the ticket type is "child", the fare is 11.5.
+# If the zone is 3 and the ticket type is "adult", the fare is 34.5.
+# If the zone is 3 or 4 and the ticket type is "child", the fare is 23.
+# If the zone is 4 and the ticket type is "adult", the fare is 46.
+# If the zone is greater than 4, return a negative number (since your calculator does not handle inputs that high).
+
+
 def getFare(zone,ticketType):
     zone = 0
     fare = 0

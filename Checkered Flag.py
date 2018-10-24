@@ -1,3 +1,15 @@
+# Implement the following pseudocode to draw a checkered flag to the screen.
+
+# 1.  Ask the user for the size of the checkered flag (n).
+# 2.  Draw an n x n grid to the screen.
+# 3.  For i = 0,2,4,...,n*n-1:
+# 4.     row = i // n
+# 5.     offset = row % 2
+# 6.     col = (i % n) + offset
+# 7.     fillSquare(row,col,"black")
+
+# You do not have to use main(), a function, or a file for this program.
+
 from turtle import *
 
 n = input("Enter the size of the checkered flag (n)")

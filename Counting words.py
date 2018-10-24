@@ -1,3 +1,8 @@
+# Write a program that asks the user for 10 words and prints out how many time they entered the word "python".
+
+# You do not have to use main() or a function for this program.
+
+
 def main():
     python = 0
     for i in range(10):

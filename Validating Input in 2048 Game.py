@@ -1,3 +1,7 @@
+# Modify the 2048 program from the 2048 Lab to check that the user chooses a direction each move. Your program should ask the user for coordinates of where to play. While their choice is not a legal move (i.e. 'L', 'l', 'R', 'r', 'U', 'u', 'D', or 'd'), you should continue to ask them until they choose an legal move. When they choose a legal move, the program continues as before.
+
+# 2048 lab: http://comet.lehman.cuny.edu/owen/teaching/cmp167/2048Lab.html
+
 from turtle import *
 from random import *
 

@@ -1,3 +1,5 @@
+# The following program displays a grid of numbers and the totals of each row. Fill in the missing function definitions for this program. That is, write the functions sumRow() and display()
+
 from turtle import *
 
 def main():

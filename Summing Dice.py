@@ -1,3 +1,9 @@
+# Write a program that asks the user to enter the number of sides to roll a 6-sided dice. Use a function from the random module to simulate rolling the dice that manytimes and print out the sum of the rolls.
+
+# You do not have to use main() or a function for this program.
+
+
+
 def getFine(speedLimit,actualSpeed):
     fine = 0
     if actualSpeed <= speedLimit:

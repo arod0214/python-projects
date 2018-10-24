@@ -1,3 +1,9 @@
+# Work through the Turtle Racing Lab in the textbook.  Submit your code with step 5 completed.  You may use any of the given suggestions or your own idea to complete step 5.  
+
+# Turtle Racing Lab: http://interactivepython.org/courselib/static/thinkcspy/Labs/lab03_01.html
+
+
+
 import turtle              # 1.  import the modules
 import random
 wn = turtle.Screen()       # 2.  Create a screen

@@ -1,3 +1,6 @@
+# Write a program that draws a purple octagon on the screen using turtles.
+
+
 import turtle
 win = turtle.Screen()
 x = turtle.Turtle()

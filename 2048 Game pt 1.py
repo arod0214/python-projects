@@ -1,3 +1,9 @@
+# The homework is the first step in building a 2048 game using turtles.
+
+# Write a program that draws a 4 x 4 grid, places a turtle at a location specified by the user, and writes the number '2'. When the user hits enter, move the turtle to the left side of the screen,keeping the same "height" as it moves, and again writes the number '2'. To make things easier, assume that the coordinates range from 0 to 3 for both the x and y values.
+
+
+
 import turtle 
 
 

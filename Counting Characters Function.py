@@ -1,3 +1,8 @@
+# Write a program that asks the user for their first and last name, and prints out the number of characters in their name.
+
+# Your code should have a function called getNumCharacters(firstName,lastName) that takes the two names as parameters and returns the total number of characters in them (assume there are no spaces).
+
+
 def getNumCharacters(firstName,lastName):
     x = len(firstName)
     y = len(lastName)

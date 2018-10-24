@@ -1,3 +1,6 @@
+# Using turtle graphics, draw a 9 x 9 grid
+# Hint: Resize the drawing canvas to give coordinates that are easier to use
+
 import turtle 
 win = turtle.Screen()
 tic = turtle.Turtle()

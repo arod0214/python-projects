@@ -1,3 +1,6 @@
+# Write a program that asks the user for a max radius, and prints out a chart of the radius and area of a circle, where the radius starts at 1 and goes up to the max radius. (Assume the user enters a positive integer as the max radius.)
+
+
 import turtle 
 win = turtle.Screen()
 tic = turtle.Turtle()
